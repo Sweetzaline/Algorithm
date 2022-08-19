@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.exe
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.deps.json
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.dll
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.pdb
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.dll
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.pdb
+C:\Users\Amit Pegu\Desktop\Algorithm\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.genruntimeconfig.cache
