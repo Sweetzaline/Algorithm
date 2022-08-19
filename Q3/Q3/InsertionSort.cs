@@ -1,0 +1,33 @@
+﻿using System;
+namespace Q3
+{
+    class InsertionSort
+    {
+        public void Sort(int[] arr)
+        {
+            int size = arr.Length;
+            for (int i = 1; i < size; i++)
+            {
+                int k = arr[i];
+                int j = i - 1;
+                while (j >= 0 && arr[j] > k)
+                {
+                    arr[j + 1] = arr[j];
+                    j = j - 1;
+                }
+                arr[j + 1] = k;
+            }
+        }
+        public void PrintArray(int[] arr)
+        {
+            Console.WriteLine("For the given array { 10, 2, 14, 3, 1, 5, 9 }: The Sorted array is : ");
+            int n = arr.Length;
+            for (int i = 0; i < n; ++i)
+            {
+                Console.Write(arr[i] + " ");
+            }
+            Console.Write("\n");
+        }
+
+    }
+}
